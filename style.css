@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  nav{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    
+  }
+  li{
+    display: inline;
+  }
+  
+  .main {
+      margin: 100px auto 100px;
+      width: 80%;
+      text-align: center;
+    }
+    span {
+        display: block;
+    }
+  
+  .button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+  }
+  
+  
+  #grey {
+    background: grey;
+  }
+  
+  #orange {
+    background: orange;
+  }
+  #blue {
+    background: blue;
+  }
+  #yellow {
+    background: yellow;
+  }
+  #pink{
+    background-color: pink;
+  }
+  #blueviolet{
+    background-color: blueviolet;
+  }
+  #green{
+    background-color: green;
+  }
+  #brown{
+    background-color: brown;
+  }
+  #aqua{
+    background-color: aqua;
+  }
+  #red{
+    background-color: red;
+  }
+  
+  
